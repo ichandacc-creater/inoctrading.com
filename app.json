@@ -1,0 +1,20 @@
+{
+  "name": "InocTrading",
+  "tagline": "The God of Sniper Entries",
+  "brandColors": {
+    "primary": "#2376ff",
+    "background": "#000000",
+    "text": "#ffffff"
+  },
+  "courses": [
+    { "title": "Gold Trading Course", "priceUSD": 100 },
+    { "title": "Full Trading Course", "priceUSD": 250 }
+  ],
+  "contacts": {
+    "email": "ichandacc@gmail.com",
+    "telegram": "@Inoctrading",
+    "youtube": "@Inoctradingofficial",
+    "phone": "+260971710987"
+  },
+  "quote": "Always target the liquidity or you will become the liquidity."
+}
